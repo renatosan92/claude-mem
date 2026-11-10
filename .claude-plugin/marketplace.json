@@ -18,6 +18,12 @@
       "version": "0.1.4",
       "source": "./cowork",
       "description": "Claude-Mem for Cowork (Claude app cloud sessions) - hooks stream tool use to cmem.ai and inject observations into new sessions and agents"
+    },
+    {
+      "name": "agent-watch",
+      "version": "0.1.0",
+      "source": "./mods/agent-watch",
+      "description": "A live Agents pane showing what each of your agents is working on: status, current tool and recent activity"
     }
   ]
 }

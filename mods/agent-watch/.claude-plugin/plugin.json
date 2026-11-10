@@ -1,0 +1,1 @@
+{ "name": "agent-watch", "version": "0.1.0", "description": "A live pane showing what each of your agents is doing: status, current tool, and recent activity.", "types": "./types/index.d.ts", "license": "MIT" }
